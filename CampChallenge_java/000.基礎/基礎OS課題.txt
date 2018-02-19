@@ -1,0 +1,4 @@
+OS:windows　10　home　64ビット
+BIOS:version　1.04
+プロセッサ：　Intel　Core　i5-2520M　CPU@2.50GHZ
+メモリ：4069MB　RAM
